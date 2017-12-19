@@ -113,3 +113,5 @@ Paste : Copy the selected region from the source image and paste it to the disti
  3. Notice
    You nedd to open an image before operate it. And colse the dialog when 
    you finish it or it maybe occur an error.
+   The image name can not show in the window if it's Non-English characters,
+   but it can be operated normal.
