@@ -3,7 +3,7 @@
  1.  Overview 
     Photon is a simplle image operation tool which base on PIL and OpenCv.
 
- 2. Usage 使用
+ 2. Usage 
 
 New:New a window.
 
