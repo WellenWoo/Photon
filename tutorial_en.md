@@ -113,5 +113,7 @@ Paste : Copy the selected region from the source image and paste it to the disti
  3. Notice
    You nedd to open an image before operate it. And colse the dialog when 
    you finish it or it maybe occur an error.
-   The image name can not show in the window if it's Non-English characters,
-   but it can be operated normal.
+   The image can not be shown in the window if it's name or paht include Non-English characters, but it can be operated normal.
+   You can try the miniPhoton, the mini version of Photon,it can show the image
+   which name or path include Non-English characters. 
+   [miniPhoton](https://github.com/WellenWoo/miniPhoton)
